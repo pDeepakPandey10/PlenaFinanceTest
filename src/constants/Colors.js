@@ -1,0 +1,12 @@
+export default {
+    COLOR_GRAD1:'#F9B023',
+    COLOR_GRAD2:'#FFC83A',
+    WHITE: '#fff',
+    OFF_WHITE: '#f8f9fb',
+    HEADER_BLUE_LIGHT:'#2A4BA0',
+    HEADER_BLUE_DARK:'#153075',
+    GREY_LIGHT: '#F8F9FB',
+    GREY_PLACE_HOLDER: '#8891A5',
+    TEXT_HEADER: '#1E222B',
+    TEXT_LIGHT: '#616A7D'
+}
